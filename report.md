@@ -1,4 +1,4 @@
-**<ins>Week 2</ins>
+** <ins>Week 2</ins>
 
 This week I worked on trying to understand containers a little bit more now I understand that containers technology like github is basically an abstraction of the capabilites already presennt in the linux system namely namespaces, cgroups, veth and others to emulate a file system.I'm also trying to use arch more and typed this using neovim to try get more used to it.
 
