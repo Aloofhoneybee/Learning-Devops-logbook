@@ -4,11 +4,11 @@ This week I worked on trying to understand containers a little bit more. I now u
 I'm also trying to use arch more and typed this using neo vim to try get more used to it.
 
 <img width="1280" height="960" alt="book 1" src="https://github.com/user-attachments/assets/1c9fb173-1787-4de4-b5f6-672febd83fd0" />
-[Trying to understand more about container images and how the oci model affects it]
+Trying to understand more about container images and how the oci model affects it
 
 <img width="1280" height="960" alt="book 2" src="https://github.com/user-attachments/assets/d592df29-9c96-4857-92f7-49aecb6fbb9b" />
 
-![Trying to understand the difference between image manifest and index manifest]
+Trying to understand the difference between image manifest and index manifest
 
 (forgive my horrible handwriting) 
 
